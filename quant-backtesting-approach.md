@@ -1,7 +1,7 @@
 # Reverse Engineering the Crypto Market: A Quant & Backtesting Approach
 
 **Author:** Betha Morrison  
-**Level:** Intermediate–Advanced  
+**Level:** Intermediate - Advanced  
 **Focus:** Algorithmic approach, end-to-end pipeline, working code, and honest limitations
 
 ---
@@ -935,9 +935,9 @@ The realistic goal is a system with a **small but consistent statistical edge** 
 - Dune Analytics: [dune.com](https://dune.com) (on-chain SQL, free tier)
 
 **Academic Papers:**
-- "Cryptocurrency Market Microstructure" — Annals of Operations Research (2023)
-- "Pump and Dumps in the Bitcoin Era" — La Morgia et al., [arXiv:2005.06610](https://arxiv.org/abs/2005.06610)
-- "Markov and HMM for Regime Detection in Crypto Markets" — [Preprints.org (2026)](https://www.preprints.org/manuscript/202603.0831)
+- "Cryptocurrency Market Microstructure" - Annals of Operations Research (2023)
+- "Pump and Dumps in the Bitcoin Era" - La Morgia et al., [arXiv:2005.06610](https://arxiv.org/abs/2005.06610)
+- "Markov and HMM for Regime Detection in Crypto Markets" - [Preprints.org (2026)](https://www.preprints.org/manuscript/202603.0831)
 
 ---
 
