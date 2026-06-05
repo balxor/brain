@@ -2,7 +2,7 @@
 
 **Author:** Betha Morrison  
 **Level:** Intermediate - Advanced  
-**Focus:** Algorithmic approach, end-to-end pipeline, working code, and honest limitations
+**Focus:** Algorithmic approach, end-to-end pipeline, working code and honest limitations
 
 ---
 
@@ -309,7 +309,7 @@ df_feat.dropna(inplace=True)
 
 ## 6. Regime Detection with Hidden Markov Models
 
-The market doesn't stay in one mode - it cycles between trending, choppy, and crashing phases. HMM lets us detect those states probabilistically without hard-coding thresholds.
+The market doesn't stay in one mode - it cycles between trending, choppy and crashing phases. HMM lets us detect those states probabilistically without hard-coding thresholds.
 
 **Core math:**
 
@@ -670,7 +670,7 @@ print(metrics)
 
 ## 10. Walk-Forward Validation & Overfitting Prevention
 
-This is the section most people skip, and it's the main reason strategies look good in backtests but fall apart in production.
+This is the section most people skip and it's the main reason strategies look good in backtests but fall apart in production.
 
 ### 10.1 Walk-Forward Architecture
 
@@ -889,7 +889,7 @@ while True:
 
 ## 12. Honest Limitations
 
-This is the section most quant articles leave out, and it's the most important one.
+This is the section most quant articles leave out and it's the most important one.
 
 ### 12.1 Structural Problems
 
