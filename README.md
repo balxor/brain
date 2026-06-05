@@ -34,7 +34,7 @@ It does not optimize for your expectations.
 > *the moment you arrive with a requirement,  
 > the thing you need has already moved.*
 
-If you came here **with no agenda** —  
+If you came here **with no agenda** -  
 Stay a while.  
 Something might stick.  
 It won't be what you predicted.  
@@ -83,7 +83,7 @@ Same goes for this repo.
 Approach it as a closed box and it stays closed.  
 Approach it as an open question and it opens.
 
-Not a riddle. just how it works.
+Not a riddle. Just how it works.
 
 ---
 
@@ -96,8 +96,8 @@ No template.
 No code of conduct document longer than this readme.  
 Just does it belong here? if yes, send it.
 
-If you're not sure whether it belongs — it probably doesn't.  
-If you feel like it might — it probably does.
+If you're not sure whether it belongs - it probably doesn't.  
+If you feel like it might - it probably does.
 
 ---
 
