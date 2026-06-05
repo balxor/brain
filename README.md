@@ -9,7 +9,6 @@
 # README
 
 **Author:** Betha Morrison
-**Contact:** betha@mahameru.org  
 **Last modified:** see commit log, i don't do manual dates
 
 ---
