@@ -73,7 +73,7 @@ running; the `(deleted)` indicates no directory entry, not termination.
 
 ---
 
-## proof of concept
+## Proof of Concept
 
 Reads an ELF binary from path or stdin, stages it via `memfd_create`, and
 executes it. The source is never written to any named path.
