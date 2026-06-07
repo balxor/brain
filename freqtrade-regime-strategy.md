@@ -119,7 +119,7 @@ defined-risk, defined-target trade, not an open-ended trend ride.
 
 ---
 
-## implementation
+## Implementation
 
 The strategy has no external indicator library dependency. All indicators are
 implemented directly using NumPy and pandas with Wilder's smoothing where
@@ -464,7 +464,7 @@ wider multiplier to avoid stopout on noise.
 
 ---
 
-## hyperopt and walk-forward
+## Hyperopt and Walk-forward
 
 Hyperopt on in-sample data without out-of-sample validation produces overfit
 parameters. The correct process:
@@ -495,7 +495,7 @@ the parameters are overfit. Do not deploy.
 
 ---
 
-## what this strategy does in june 2026
+## What This Strategy Does
 
 Given current conditions — `BEAR_TREND` or `EXPANSION` on BTC/USDT 1h — the
 strategy generates no long entries. That is the correct output. A strategy that
