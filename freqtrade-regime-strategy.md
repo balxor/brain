@@ -23,7 +23,7 @@ regime it is operating in before generating any signal.
 
 ---
 
-## why single-regime strategies fail here
+## Why Single-regime Strategies Fail Here
 
 **EMA crossover (pure trend-following).** In a trending market EMA crossovers
 work — price respects the faster EMA as support on pullbacks. In a liquidation
@@ -100,7 +100,7 @@ strategy's answer to that is: do nothing. Not every day needs a trade.
 
 ---
 
-## signal logic per regime
+## Signal Logic per Regime
 
 **`BULL_TREND` — EMA pullback entry.**
 
