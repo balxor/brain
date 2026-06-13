@@ -2,7 +2,6 @@
 
 **Author:** Kenshin Himura  
 **Date:** June 2026  
-**Tags:** freqtrade, quant, crypto, strategy, market-regime, python  
 
 > A long-only Freqtrade strategy that classifies the current market regime before generating any signal, and stays in cash when the regime is unfavorable. This article covers the design rationale, the full implementation, and the correct hyperopt and validation workflow.
 
@@ -502,4 +501,4 @@ This strategy is provided for research and educational purposes. It is not finan
 
 ---
 
-*— Betha Morrison*
+*— Kenshin Himura*
