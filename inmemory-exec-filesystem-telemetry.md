@@ -1,6 +1,6 @@
 # In-memory Execution and the Limits of Filesystem Telemetry
 
-**Author:** Betha Morrison  
+**Author:** Kenshin Himura
 **Date:** June 2026  
 **Tags:** linux, exploitation, evasion, memfd, process-injection
 
@@ -333,4 +333,4 @@ ptrace-based operations.
 ---
 
 *Behavior may vary across kernel versions and distributions.*  
-*- Betha Morrison*
+*- Kenshin Himura*
