@@ -80,9 +80,9 @@ The strategy classifies the current regime, then applies the signal logic approp
 
 ## 4. Signal Logic per Regime
 
-**`BULL_TREND` — EMA pullback entry.** Price must be above EMA_55 (trend intact), within 1×ATR of EMA_21 (a pullback rather than an extension), and RSI between 40 and 62 (neither overbought nor crashed). This targets pullback-to-continuation within a defined trend, which has better risk/reward than breakout entries that are already extended from the mean.
+**`BULL_TREND` - EMA pullback entry.** Price must be above EMA_55 (trend intact), within 1×ATR of EMA_21 (a pullback rather than an extension), and RSI between 40 and 62 (neither overbought nor crashed). This targets pullback-to-continuation within a defined trend, which has better risk/reward than breakout entries that are already extended from the mean.
 
-**`RANGE` — Bollinger lower-band reclaim with RSI recovery.** The previous candle must have touched or breached the lower band; the current candle must close back above it. RSI must be below the oversold threshold and rising, the current candle must be green, and volume must be at least 1.2× the 20-period average. The exit target is EMA_21. This is a defined-risk, defined-target trade rather than an open-ended trend ride.
+**`RANGE` - Bollinger lower-band reclaim with RSI recovery.** The previous candle must have touched or breached the lower band; the current candle must close back above it. RSI must be below the oversold threshold and rising, the current candle must be green, and volume must be at least 1.2× the 20-period average. The exit target is EMA_21. This is a defined-risk, defined-target trade rather than an open-ended trend ride.
 
 Both entries require the regime gate to be satisfied first, so neither fires in `BEAR_TREND` or `EXPANSION`.
 
@@ -174,7 +174,7 @@ class RegimeAdaptive(IStrategy):
     # Hard floor. The custom stoploss never exceeds this loss.
     stoploss = -0.05
 
-    # Hyperopt search space — intentionally narrow.
+    # Hyperopt search space - intentionally narrow.
     adx_trend_threshold = IntParameter(22, 30, default=25, space="buy", optimize=True)
     adx_range_threshold = IntParameter(15, 22, default=20, space="buy", optimize=True)
     rsi_range_oversold = IntParameter(28, 38, default=35, space="buy", optimize=True)
@@ -360,7 +360,7 @@ class RegimeAdaptive(IStrategy):
             & (dataframe["volume"] > 0)
         )
 
-        # RANGE: lower-band reclaim — previous candle at/below the lower band,
+        # RANGE: lower-band reclaim - previous candle at/below the lower band,
         # current candle closes back above it, RSI rising, green candle, volume.
         lower_band_reclaim = (
             (dataframe["close"].shift(1) <= dataframe["bb_lower"].shift(1) * 1.005)
@@ -501,4 +501,4 @@ This strategy is provided for research and educational purposes. It is not finan
 
 ---
 
-*— Kenshin Himura*
+*- Kenshin Himura*
