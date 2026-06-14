@@ -1,4 +1,4 @@
-# Analisis Komprehensif: Kerentanan Struktural Guild Besar dalam MMORPG
+# Kerentanan Struktural Guild Besar dalam MMORPG
 ## Perspektif Teori Konflik - Threat Modeling untuk Tujuan Defensif
 
 ---
