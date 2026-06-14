@@ -139,7 +139,7 @@ Berdasarkan pemetaan sosial di Tahap I, bidik posisi-posisi berikut (prioritas m
 
 **B. Teknik Mendapatkan Posisi**
 - *The Empty Chair Strategy*: Identifikasi peran yang tidak diisi dan tawarkan diri
-- *The Competence Trap*: Tunjukkan kompetensi tinggi → makin banyak tanggung jawang diberikan → makin besar akses
+- *The Competence Trap*: Tunjukkan kompetensi tinggi -> makin banyak tanggung jawang diberikan -> makin besar akses
 - *The Loyalty Display*: Jadilah yang paling vokal membela guild saat ada serangan eksternal - ini membangun trust yang akan menjadi modal sosial
 
 ### 3.3 Jaringan: Membangun Aliansi Tersembunyi
@@ -207,11 +207,11 @@ Berdasarkan *Mimetic Rivalry* - konflik imitatif terjadi ketika dua pihak mengin
 *Tahap 2 - Create Conflicting Realities:*
 - Beri informasi berbeda ke sub-grup berbeda
 - Akibatnya: ketika mereka berdiskusi, terjadi kebingungan kolektif
-- Kebingungan → kecurigaan → paranoia
+- Kebingungan -> kecurigaan -> paranoia
 
 *Tahap 3 - Let Paranoia Self-Polarize:*
 - Ketika anggota mulai saling curiga, proses fragmentasi menjadi *otomatis*
-- Theory of Social Sanctions (OSTI paper): ketika jaringan sosial mulai retak, tekanan sosial untuk konformitas melemah → semakin sedikit hambatan untuk konflik terbuka
+- Theory of Social Sanctions (OSTI paper): ketika jaringan sosial mulai retak, tekanan sosial untuk konformitas melemah -> semakin sedikit hambatan untuk konflik terbuka
 
 **C. Teknik *Divide et Impera* (Pecah Belah)**
 
@@ -295,7 +295,7 @@ Fielder menemukan: komitmen pemain terhadap grup sebanding dengan *risk* dan *va
 - Efek: *sunk cost fallacy* - anggota merasa rugi tapi tetap bertahan, menciptakan frustasi
 - Alternatif: ciptakan *competing goals* yang memecah fokus investasi
   - Sebagian anggota ingin fokus PvP, sebagian PvE
-  - Ketika sumber daya terbagi, tidak ada tujuan yang tercapai → demoralisasi massal
+  - Ketika sumber daya terbagi, tidak ada tujuan yang tercapai -> demoralisasi massal
 
 ---
 
@@ -317,14 +317,14 @@ Fielder menambahkan: dalam struktur anarkis (seperti Null-Sec EVE atau guild tan
 **B. Uji Konsistensi (Stress Test)**
 - Ajukan pertanyaan yang memaksa pemimpin mengambil posisi kontroversial
 - "Apakah lo setuju kalau kita prioritize loot untuk main tank?"
-- Apa pun jawabannya, akan ada pihak yang dirugikan → ekspos sisi yang dirugikan ke publik
+- Apa pun jawabannya, akan ada pihak yang dirugikan -> ekspos sisi yang dirugikan ke publik
 
 **C. Erosi Bertahap Otoritas**
 - Mulai dengan pertanyaan kecil di chat publik:
   - "Kenapa kita ambil strategi ini buat boss 3?"
   - "Apakah sudah dipertimbangkan alternatif X?"
-- Jika pemimpin defensif → terlihat otoriter
-- Jika pemimpin menerima masukan → terlihat ragu-ragu
+- Jika pemimpin defensif -> terlihat otoriter
+- Jika pemimpin menerima masukan -> terlihat ragu-ragu
 - Root mencatat: *power dispersion* bersifat fluid dan bergeser - pertanyaan konsisten menggeser pusat pengambilan keputusan dari pemimpin ke kelompok
 
 **D. The Competence Narrative**
@@ -354,13 +354,13 @@ Fielder menambahkan: dalam struktur anarkis (seperti Null-Sec EVE atau guild tan
 **A. Double-Bind Crisis**
 - Ciptakan situasi di mana pemimpin harus memilih antara dua opsi yang sama-sama buruk
 - Contoh: "Kita harus memilih antara progress raid malam ini atau menyelamatkan anggota yang sedang dalam masalah."
-- Apapun pilihannya → separuh anggota kecewa
+- Apapun pilihannya -> separuh anggota kecewa
 
 **B. Exhaustion Warfare**
 - Gulirkan drama kecil secara terus-menerus
 - Setiap drama kecil menguras energi emosional guild
 - Tujuannya: *compassion fatigue* - anggota lelah dan mulai apatis
-- Apati → partisipasi menurun → guild gagal mencapai tujuan → spiral kematian
+- Apati -> partisipasi menurun -> guild gagal mencapai tujuan -> spiral kematian
 
 **C. The Exit Cascade**
 **Landasan Teoretis:** Fielder - komitmen sebanding dengan risiko; jika risiko kecil dan ikatan sosial melemah, perpindahan anggota menjadi mudah.
