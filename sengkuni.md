@@ -340,7 +340,7 @@ Fielder menambahkan: dalam struktur anarkis (seperti Null-Sec EVE atau guild tan
 - Bangun persepsi bahwa shadow leader *lebih kompeten* daripada pemimpin saat ini
 - Root: pemimpin menjadi pemimpin dengan legitimasi kontekstual - cukup ubah konteksnya agar shadow leader yang muncul
 
-**B. Timing Kudeta Lembut**
+**B. Timing Kudeta Senyap**
 - Waktu optimal: setelah kegagalan besar (wipe total, roster loss, deadline terlewat)
 - Momen: kelelahan kolektif (saat pemimpin burnout dan anggota frustrasi)
 - Metode: bukan kudeta frontal, tapi *proposal restrukturisasi* yang *kebetulan* menggeser kekuasaan
