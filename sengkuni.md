@@ -19,7 +19,7 @@
 
 ## 1. Dasar Teoretis
 
-Enam paper akademik berikut menjadi fondasi analisis ini:
+Enam paper akademik berikut menjadi landasan dalam analisis ini:
 
 | Paper | Teori Utama | Relevansi |
 |---|---|---|
@@ -173,7 +173,7 @@ Tiga paper memberikan landasan untuk operasi psikologis:
   - "Gue lihat guild lain pakai DKP, kenapa kita pakai loot council?"
   - "Apakah menurut lo progress kita sebanding dengan effort yang dikeluarkan?"
 - Teknik ini mengaktifkan *cognitive dissonance* — anggota mulai mempertanyakan status quo
-- Strimling & Frey membuktikan bahwa norma "standar, adil, dan umum" itu beragam antar server — menunjukkan alternatif eksplisit menggoyahkan keyakinan bahwa norma saat ini adalah satu-satunya cara
+- Strimling & Frey membuktikan bahwa norma "standar, adil dan umum" itu beragam antar server — menunjukkan alternatif eksplisit menggoyahkan keyakinan bahwa norma saat ini adalah satu-satunya cara
 
 **B. Framing Ulang Kegagalan**
 - Setiap kegagalan raid/content adalah peluang untuk *reframing*
