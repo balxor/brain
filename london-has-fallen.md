@@ -4,37 +4,37 @@
 
 | Pola                                                  | Penjelasan                                                                                       |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Guild besar lebih sering konflik                      | Jumlah member, status sosial, resource terbatas, dan kompetisi membuat titik gesek lebih banyak. |
-| Konflik dapat menjaga aktivitas internal              | Lawan eksternal memberi arah aktivitas, target war, dan alasan member tetap aktif.               |
-| Char GG baru dapat mengubah power balance             | Pembelian char kuat memberi efek cepat pada morale, attendance, dan kalkulasi peluang menang.    |
-| Guild besar dapat pecah setelah kehilangan confidence | Kerusakan biasanya muncul dari churn core member, leadership fatigue, dan turunnya confidence.   |
+| Guild besar lebih sering konflik                      | Jumlah member, status sosial, resource terbatas dan kompetisi membuat titik gesek lebih banyak. |
+| Konflik dapat menjaga aktivitas internal              | Lawan eksternal memberi arah aktivitas, target war dan alasan member tetap aktif.               |
+| Char GG baru dapat mengubah power balance             | Pembelian char kuat memberi efek cepat pada morale, attendance dan kalkulasi peluang menang.    |
+| Guild besar dapat pecah setelah kehilangan confidence | Kerusakan biasanya muncul dari churn core member, leadership fatigue dan turunnya confidence.   |
 | Loyalty perlu dikelola                                | Loyal member tetap butuh alasan rasional untuk bertahan ketika gap kekuatan melebar.             |
 
 ## 1. Guild Besar Adalah Organisasi Sosial
 
-Guild besar di MMORPG memiliki struktur organisasi kecil. Ada leader, officer, core member, whale, pemain support, pemain casual, diplomat, dan member yang aktif hanya saat war. Semakin besar jumlah member, semakin banyak relasi sosial yang perlu diatur.
+Guild besar di MMORPG memiliki struktur organisasi kecil. Ada leader, officer, core member, whale, pemain support, pemain casual, diplomat dan member yang aktif hanya saat war. Semakin besar jumlah member, semakin banyak relasi sosial yang perlu diatur.
 
 Riset tentang MMORPG guild menunjukkan bahwa guild memiliki peran sosial yang muncul dari pola interaksi pemain, bukan dari title formal saja.[1] Pemain yang sering membantu, mengatur party, menjaga komunikasi, atau menjadi penghubung antar-member dapat memiliki pengaruh besar meskipun tidak selalu memegang jabatan resmi.
 
-Guild besar juga membentuk social identity. Pemain membawa nama char dan nama guild. Studi tentang MMOG menemukan bahwa pemain dapat membangun sense of community, social identity, dan social support melalui relasi di dalam game.[2]
+Guild besar juga membentuk social identity. Pemain membawa nama char dan nama guild. Studi tentang MMOG menemukan bahwa pemain dapat membangun sense of community, social identity dan social support melalui relasi di dalam game.[2]
 
 Konflik antar-guild sering terasa personal karena identitas guild ikut terbawa. Saat satu member dihina, dicurangi, atau dikalahkan secara terbuka, sebagian member lain membaca kejadian itu sebagai urusan kelompok.
 
 ## 2. Resource Terbatas Membuat Konflik Sering Muncul
 
-Banyak sistem MMORPG memakai kompetisi atas resource terbatas. Castle, MVP, spot farming, ranking, title, item langka, dan akses ke party kuat sering hanya bisa dimenangkan oleh sebagian kecil pemain atau guild.
+Banyak sistem MMORPG memakai kompetisi atas resource terbatas. Castle, MVP, spot farming, ranking, title, item langka dan akses ke party kuat sering hanya bisa dimenangkan oleh sebagian kecil pemain atau guild.
 
-Realistic conflict theory menjelaskan bahwa konflik antar-kelompok sering meningkat ketika kelompok bersaing atas resource yang terbatas atau tujuan yang saling bertentangan.[3] Dalam konteks guild, resource tersebut dapat berupa item, wilayah, ranking, status server, dan akses ke pemain kuat.
+Realistic conflict theory menjelaskan bahwa konflik antar-kelompok sering meningkat ketika kelompok bersaing atas resource yang terbatas atau tujuan yang saling bertentangan.[3] Dalam konteks guild, resource tersebut dapat berupa item, wilayah, ranking, status server dan akses ke pemain kuat.
 
 Contoh resource yang sering memicu konflik:
 
 | Resource        | Dampak ke guild                           |
 | --------------- | ----------------------------------------- |
 | Castle          | Status publik dan kontrol objective war.  |
-| MVP             | Drop item, ekonomi guild, dan prestige.   |
+| MVP             | Drop item, ekonomi guild dan prestige.   |
 | Ranking         | Validasi kekuatan di server.              |
 | Spot farming    | Akses progress harian.                    |
-| Whale player    | Keunggulan damage, tanking, dan pressure. |
+| Whale player    | Keunggulan damage, tanking dan pressure. |
 | Informasi build | Keunggulan teknis.                        |
 | Alliance        | Kontrol matchup dan keamanan politik.     |
 
@@ -42,9 +42,9 @@ Guild besar memiliki kebutuhan resource lebih tinggi karena jumlah member lebih 
 
 ## 3. Guild Besar Punya Coordination Cost Tinggi
 
-Leader guild besar harus menjaga attendance, Discord, logistik, komposisi party, jadwal war, konflik internal, dan hubungan dengan guild lain.
+Leader guild besar harus menjaga attendance, Discord, logistik, komposisi party, jadwal war, konflik internal dan hubungan dengan guild lain.
 
-Studi tentang guild World of Warcraft menunjukkan bahwa keberhasilan guild dipengaruhi oleh struktur sosial, jaringan relasi, dan kemampuan grup mempertahankan member dalam jangka panjang.[4] Ukuran besar menambah kapasitas dan beban koordinasi.
+Studi tentang guild World of Warcraft menunjukkan bahwa keberhasilan guild dipengaruhi oleh struktur sosial, jaringan relasi dan kemampuan grup mempertahankan member dalam jangka panjang.[4] Ukuran besar menambah kapasitas dan beban koordinasi.
 
 Masalah umum di guild besar:
 
@@ -58,11 +58,11 @@ Masalah umum di guild besar:
 | Member lama | Merasa posisinya tergeser.                                           |
 | Diplomasi   | Salah komunikasi dapat menjadi konflik antar-guild.                  |
 
-Konflik kecil lebih mudah membesar di guild besar karena banyak orang ikut membaca, menafsirkan, dan menyebarkan kejadian.
+Konflik kecil lebih mudah membesar di guild besar karena banyak orang ikut membaca, menafsirkan dan menyebarkan kejadian.
 
 ## 4. Konflik Dapat Menjaga Aktivitas Guild
 
-Dalam guild kompetitif, konflik sering menjadi sumber aktivitas. Ada target yang jelas, jadwal yang jelas, dan alasan untuk login.
+Dalam guild kompetitif, konflik sering menjadi sumber aktivitas. Ada target yang jelas, jadwal yang jelas dan alasan untuk login.
 
 Guild yang punya lawan aktif biasanya lebih mudah menjaga rutinitas:
 
@@ -73,7 +73,7 @@ Guild yang punya lawan aktif biasanya lebih mudah menjaga rutinitas:
 * Discord lebih aktif;
 * Recruitment lebih mudah dijual.
 
-Social identity theory menjelaskan bahwa identitas kelompok sering terbentuk melalui pembeda antara in-group dan out-group.[5] Di guild, pembeda itu muncul dalam bentuk warna guild, nama guild, sejarah war, musuh lama, dan reputasi server.
+Social identity theory menjelaskan bahwa identitas kelompok sering terbentuk melalui pembeda antara in-group dan out-group.[5] Di guild, pembeda itu muncul dalam bentuk warna guild, nama guild, sejarah war, musuh lama dan reputasi server.
 
 Konflik dapat memperkuat engagement internal selama leadership mampu mengatur batasnya. Konflik mulai merusak ketika biaya war lebih besar daripada hasil yang dirasakan member.
 
@@ -81,7 +81,7 @@ Konflik dapat memperkuat engagement internal selama leadership mampu mengatur ba
 
 Saat guild lawan membeli char yang jauh lebih kuat, perubahan utama muncul di persepsi member.
 
-Sebelum char GG masuk, banyak member masih merasa bahwa komposisi, koordinasi, dan attendance bisa menutup gap. Setelah char GG masuk, sebagian member mulai menghitung ulang peluang menang.
+Sebelum char GG masuk, banyak member masih merasa bahwa komposisi, koordinasi dan attendance bisa menutup gap. Setelah char GG masuk, sebagian member mulai menghitung ulang peluang menang.
 
 Perubahan persepsi yang sering muncul:
 
@@ -97,7 +97,7 @@ Pembelian char GG memberi sinyal bahwa lawan bisa menaikkan kekuatan secara cepa
 
 ## 6. Guild Lawan Bisa Pecah Karena Churn Cascade
 
-Guild biasanya pecah secara bertahap. Dari luar terlihat mendadak karena tanda awalnya terjadi di ruang internal: attendance turun, Discord sepi aktivitas war, officer mulai pasif, dan core member membuka opsi pindah.
+Guild biasanya pecah secara bertahap. Dari luar terlihat mendadak karena tanda awalnya terjadi di ruang internal: attendance turun, Discord sepi aktivitas war, officer mulai pasif dan core member membuka opsi pindah.
 
 Riset tentang churn prediction di MMORPG menunjukkan bahwa social influence dan struktur relasi sosial berperan dalam prediksi churn pemain.[6] Ketika pemain penting mulai tidak aktif atau keluar, pemain lain ikut menilai ulang komitmennya.
 
@@ -120,13 +120,13 @@ Guild besar membawa reputasi. Saat guild kecil kalah, publik sering melihatnya s
 
 Status loss menjadi tekanan tambahan. Member yang sebelumnya bangga memakai nama guild dapat merasa reputasinya ikut turun. Situasi ini makin berat jika lawan aktif melakukan taunt, flex, atau menyebarkan screenshot kemenangan.
 
-Studi tentang toxic behavior di game kompetitif berbasis tim menunjukkan bahwa komunikasi negatif dapat muncul dalam skala besar di lingkungan kompetitif online.[7] Dalam konteks guild, toxic behavior mempercepat konflik karena pesan menyebar lewat chat game, Discord, livestream, dan grup komunitas.
+Studi tentang toxic behavior di game kompetitif berbasis tim menunjukkan bahwa komunikasi negatif dapat muncul dalam skala besar di lingkungan kompetitif online.[7] Dalam konteks guild, toxic behavior mempercepat konflik karena pesan menyebar lewat chat game, Discord, livestream dan grup komunitas.
 
 Guild besar yang tidak punya kontrol komunikasi akan lebih mudah kehilangan arah. Satu screenshot dapat memicu debat internal. Satu komentar officer dapat memicu interpretasi berbeda. Satu member pindah guild dapat dibaca sebagai tanda masalah yang lebih besar.
 
 ## 8. Loyalty Member Perlu Prospek Kemenangan
 
-Member yang loyal bisa bertahan dalam fase kalah jika guild masih punya rencana realistis. Mereka lebih mudah bertahan ketika ada pembagian peran, target rebuild, komunikasi jernih, dan evaluasi yang masuk akal.
+Member yang loyal bisa bertahan dalam fase kalah jika guild masih punya rencana realistis. Mereka lebih mudah bertahan ketika ada pembagian peran, target rebuild, komunikasi jernih dan evaluasi yang masuk akal.
 
 Faktor yang membantu guild bertahan:
 
@@ -148,7 +148,7 @@ Dalam game kompetitif berbasis gear dan stat, akuisisi char kuat dapat menjadi s
 
 | Level         | Dampak                                                   |
 | ------------- | -------------------------------------------------------- |
-| Gameplay      | Damage, survivability, dan pressure objective meningkat. |
+| Gameplay      | Damage, survivability dan pressure objective meningkat. |
 | Psikologis    | Lawan merasa gap melebar.                                |
 | Politik guild | Member lawan mulai mempertanyakan arah guildnya.         |
 
@@ -179,14 +179,14 @@ Tanda guild masih bisa bertahan:
 
 ## 12. Melemahkan Dominasi Guild Besar Dalam Aturan Game
 
-Guild besar biasanya kuat karena kombinasi attendance, core member, resource control, reputasi, dan governance internal. Strategi yang efektif perlu membaca lima area itu sebagai sistem kompetitif, lalu menekan bagian yang paling mahal untuk dipertahankan.
+Guild besar biasanya kuat karena kombinasi attendance, core member, resource control, reputasi dan governance internal. Strategi yang efektif perlu membaca lima area itu sebagai sistem kompetitif, lalu menekan bagian yang paling mahal untuk dipertahankan.
 
 Batas operasional:
 
 | Praktik berisiko           | Pendekatan yang dipakai                                       |
 | -------------------------- | ------------------------------------------------------------- |
 | Doxxing                    | Batasi analisis pada data game dan aktivitas publik.          |
-| Harassment                 | Arahkan pressure ke objective, role, dan performa war.        |
+| Harassment                 | Arahkan pressure ke objective, role dan performa war.        |
 | Leak chat privat           | Gunakan recap dari hasil event publik.                        |
 | Fake report                | Laporkan pelanggaran nyata dengan bukti.                      |
 | Impersonation              | Gunakan identity yang jelas saat komunikasi antar-guild.      |
@@ -199,7 +199,7 @@ Target operasional:
 * Menaikkan coordination cost saat war;
 * Membuat objective control lebih mahal;
 * Memperkuat outside option untuk member yang ingin pindah;
-* Menjaga guild sendiri lebih rapi dari sisi governance, role, dan komunikasi.
+* Menjaga guild sendiri lebih rapi dari sisi governance, role dan komunikasi.
 
 ### 12.1 Baca Sumber Kekuatan Guild Besar
 
@@ -207,12 +207,12 @@ Guild besar memiliki beberapa sumber kekuatan yang saling terkait.
 
 | Sumber kekuatan  | Fungsi                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------- |
-| Attendance       | Member cukup banyak untuk mengisi war, MVP contest, dan objective event.              |
-| Core member      | Damage dealer, tank, support, shotcaller, dan scout menjaga performa utama.           |
+| Attendance       | Member cukup banyak untuk mengisi war, MVP contest dan objective event.              |
+| Core member      | Damage dealer, tank, support, shotcaller dan scout menjaga performa utama.           |
 | Social identity  | Nama guild memberi status sosial bagi member.                                         |
 | Resource control | Guild menguasai castle, MVP, spot farming, atau akses party kuat.                     |
-| Governance       | Leader dan officer menjaga loot rule, schedule, conflict handling, dan recruitment.   |
-| Switching cost   | Member bertahan karena relasi, reputasi, loot history, dan role yang sudah terbentuk. |
+| Governance       | Leader dan officer menjaga loot rule, schedule, conflict handling dan recruitment.   |
+| Switching cost   | Member bertahan karena relasi, reputasi, loot history dan role yang sudah terbentuk. |
 
 Analisis dimulai dari pertanyaan sederhana:
 
@@ -273,7 +273,7 @@ Recap seperti ini memberi tekanan reputasi tanpa memperkuat cohesion internal la
 
 ### 12.3 Naikkan Coordination Cost Lawan
 
-Guild besar kuat ketika instruksi mudah dipahami dan semua party bergerak ke satu arah. Coordination cost naik saat lawan harus membagi perhatian, party, dan supply.
+Guild besar kuat ketika instruksi mudah dipahami dan semua party bergerak ke satu arah. Coordination cost naik saat lawan harus membagi perhatian, party dan supply.
 
 Tekanan yang bisa dipakai:
 
@@ -348,17 +348,17 @@ Target pressure:
 * Memperlihatkan attendance guild sendiri yang stabil;
 * Menjaga recruitment tetap selektif.
 
-Keputusan pindah guild biasanya terjadi setelah beberapa sinyal terkumpul. Sinyal itu perlu terlihat dari hasil event, roster movement, dan kualitas governance.
+Keputusan pindah guild biasanya terjadi setelah beberapa sinyal terkumpul. Sinyal itu perlu terlihat dari hasil event, roster movement dan kualitas governance.
 
 ### 12.6 Bangun Outside Option
 
-Albert Hirschman membagi respons member organisasi ke dalam exit, voice, dan loyalty. Dalam guild, member yang kecewa dapat bertahan, protes internal, pindah guild, hiatus, atau menjual char.
+Albert Hirschman membagi respons member organisasi ke dalam exit, voice dan loyalty. Dalam guild, member yang kecewa dapat bertahan, protes internal, pindah guild, hiatus, atau menjual char.
 
 Outside option muncul saat guild lain terlihat lebih stabil.
 
 | Area         | Standar yang perlu terlihat               |
 | ------------ | ----------------------------------------- |
-| Recruitment  | Role, syarat, dan trial period jelas.     |
+| Recruitment  | Role, syarat dan trial period jelas.     |
 | Loot         | Aturan distribusi ditulis dan dijalankan. |
 | War schedule | Jadwal event konsisten.                   |
 | Review       | Evaluasi berbasis data.                   |
@@ -383,14 +383,14 @@ Recruitment yang baik menarik member yang mencari struktur, bukan hanya member y
 
 ### 12.7 Target Dependency Pada Role Kunci
 
-Studi Ducheneaut, Yee, Nickell, dan Moore tentang guild World of Warcraft menunjukkan pentingnya struktur sosial, centrality, dan relasi dalam survival guild. Guild besar dapat terlihat kuat secara jumlah, tetapi tetap bergantung pada role tertentu.
+Studi Ducheneaut, Yee, Nickell dan Moore tentang guild World of Warcraft menunjukkan pentingnya struktur sosial, centrality dan relasi dalam survival guild. Guild besar dapat terlihat kuat secara jumlah, tetapi tetap bergantung pada role tertentu.
 
 Dependency yang perlu dicari:
 
 | Dependency              | Counter dalam war                                                |
 | ----------------------- | ---------------------------------------------------------------- |
 | Satu shotcaller dominan | Ubah tempo objective agar call lawan tertinggal.                 |
-| Satu whale damage       | Siapkan crowd control, peel, dan zoning khusus.                  |
+| Satu whale damage       | Siapkan crowd control, peel dan zoning khusus.                  |
 | Satu tank opener        | Hindari fight pada angle yang ia inginkan.                       |
 | Satu support utama      | Tekan positioning support pada momen objective.                  |
 | Satu scout aktif        | Pakai rotasi kecil untuk menguji response time.                  |
@@ -426,7 +426,7 @@ Jenis alliance:
 | Information alliance       | Berbagi data publik dari event.          |
 | Recruitment non-aggression | Mengurangi drama poaching.               |
 
-Alliance yang sehat punya duration, objective, dan exit condition. Kerja sama tanpa batas waktu cenderung menambah conflict surface.
+Alliance yang sehat punya duration, objective dan exit condition. Kerja sama tanpa batas waktu cenderung menambah conflict surface.
 
 ### 12.9 Hindari Blowback
 
@@ -570,12 +570,12 @@ Next month priority:
 
 | Tujuan                       | Cara                                                                   |
 | ---------------------------- | ---------------------------------------------------------------------- |
-| Mengurangi dominasi resource | Contest MVP, castle, dan area bernilai tinggi.                         |
-| Menaikkan coordination cost  | Split objective, rotasi cepat, dan forced trade.                       |
+| Mengurangi dominasi resource | Contest MVP, castle dan area bernilai tinggi.                         |
+| Menaikkan coordination cost  | Split objective, rotasi cepat dan forced trade.                       |
 | Mengurangi confidence lawan  | Menang objective kecil secara konsisten.                               |
-| Membuka outside option       | Tampilkan governance, recruitment, dan schedule yang rapi.             |
-| Menjaga reputasi sendiri     | Hindari leak, harassment, impersonation, dan rumor personal.           |
-| Membaca progress             | Pakai attendance, objective control, supply burn, dan roster movement. |
+| Membuka outside option       | Tampilkan governance, recruitment dan schedule yang rapi.             |
+| Menjaga reputasi sendiri     | Hindari leak, harassment, impersonation dan rumor personal.           |
+| Membaca progress             | Pakai attendance, objective control, supply burn dan roster movement. |
 
 ## Referensi
 
