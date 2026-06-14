@@ -4,37 +4,37 @@
 
 | Pattern                                         | Explanation                                                                                        |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Large guilds clash more often                   | Member count, social status, limited resources, and competition create more friction points.       |
-| Conflict can keep internal activity alive       | An external opponent gives members activity direction, war targets, and a reason to stay active.   |
-| A new GG character can change the power balance | Buying a strong character can affect morale, attendance, and win probability calculations quickly. |
-| Large guilds can break after losing confidence  | The damage usually comes from core member churn, leadership fatigue, and declining confidence.     |
+| Large guilds clash more often                   | Member count, social status, limited resources and competition create more friction points.       |
+| Conflict can keep internal activity alive       | An external opponent gives members activity direction, war targets and a reason to stay active.   |
+| A new GG character can change the power balance | Buying a strong character can affect morale, attendance and win probability calculations quickly. |
+| Large guilds can break after losing confidence  | The damage usually comes from core member churn, leadership fatigue and declining confidence.     |
 | Loyalty needs management                        | Loyal members still need rational reasons to stay when the power gap gets wider.                   |
 
 ## 1. Large Guilds Are Social Organizations
 
-Large guilds in MMORPGs have the structure of small organizations. They have leaders, officers, core members, whales, support players, casual players, diplomats, and members who only become active during war. As the member count grows, the number of social relationships that need coordination also grows.
+Large guilds in MMORPGs have the structure of small organizations. They have leaders, officers, core members, whales, support players, casual players, diplomats and members who only become active during war. As the member count grows, the number of social relationships that need coordination also grows.
 
 Research on MMORPG guilds shows that guild roles emerge from player interaction patterns, not from formal titles alone.[1] Players who often help others, organize parties, maintain communication, or connect members can have strong influence even without official positions.
 
-Large guilds also form social identity. Players carry both character names and guild names. A study on MMOGs found that players can build sense of community, social identity, and social support through in-game relationships.[2]
+Large guilds also form social identity. Players carry both character names and guild names. A study on MMOGs found that players can build sense of community, social identity and social support through in-game relationships.[2]
 
 Conflict between guilds often feels personal because guild identity is involved. When one member gets insulted, cheated, or defeated publicly, other members may read the incident as a group issue.
 
 ## 2. Limited Resources Create Frequent Conflict
 
-Many MMORPG systems use competition over limited resources. Castle, MVP, spot farming, ranking, title, rare items, and access to strong parties are often won by a small number of players or guilds.
+Many MMORPG systems use competition over limited resources. Castle, MVP, spot farming, ranking, title, rare items and access to strong parties are often won by a small number of players or guilds.
 
-Realistic conflict theory explains that intergroup conflict often increases when groups compete over limited resources or conflicting goals.[3] In a guild context, those resources can include items, territory, ranking, server status, and access to strong players.
+Realistic conflict theory explains that intergroup conflict often increases when groups compete over limited resources or conflicting goals.[3] In a guild context, those resources can include items, territory, ranking, server status and access to strong players.
 
 Common resources that trigger conflict:
 
 | Resource          | Impact on the guild                         |
 | ----------------- | ------------------------------------------- |
 | Castle            | Public status and objective war control.    |
-| MVP               | Item drops, guild economy, and prestige.    |
+| MVP               | Item drops, guild economy and prestige.    |
 | Ranking           | Power validation on the server.             |
 | Spot farming      | Access to daily progress.                   |
-| Whale player      | Advantage in damage, tanking, and pressure. |
+| Whale player      | Advantage in damage, tanking and pressure. |
 | Build information | Technical advantage.                        |
 | Alliance          | Matchup control and political security.     |
 
@@ -42,9 +42,9 @@ Large guilds have higher resource needs because they have more members. When res
 
 ## 3. Large Guilds Have High Coordination Cost
 
-A large guild leader has to manage attendance, Discord, logistics, party composition, war schedules, internal conflict, and relationships with other guilds.
+A large guild leader has to manage attendance, Discord, logistics, party composition, war schedules, internal conflict and relationships with other guilds.
 
-A study on World of Warcraft guilds shows that guild success is affected by social structure, relationship networks, and the group’s ability to retain members over time.[4] Larger size adds capacity and coordination burden.
+A study on World of Warcraft guilds shows that guild success is affected by social structure, relationship networks and the group’s ability to retain members over time.[4] Larger size adds capacity and coordination burden.
 
 Common problems in large guilds:
 
@@ -58,11 +58,11 @@ Common problems in large guilds:
 | Old member  | Feels displaced by newer members.                                                |
 | Diplomacy   | Poor communication can create conflict between guilds.                           |
 
-Small conflicts grow more easily in large guilds because many people read, interpret, and spread the incident.
+Small conflicts grow more easily in large guilds because many people read, interpret and spread the incident.
 
 ## 4. Conflict Can Keep Guild Activity Alive
 
-In competitive guilds, conflict often becomes a source of activity. There are clear targets, clear schedules, and reasons to log in.
+In competitive guilds, conflict often becomes a source of activity. There are clear targets, clear schedules and reasons to log in.
 
 Guilds with active opponents usually maintain routines more easily:
 
@@ -73,7 +73,7 @@ Guilds with active opponents usually maintain routines more easily:
 * Discord becomes more active;
 * recruitment becomes easier to sell.
 
-Social identity theory explains that group identity often forms through distinction between in-group and out-group.[5] In guilds, that distinction appears through guild colors, guild names, war history, old opponents, and server reputation.
+Social identity theory explains that group identity often forms through distinction between in-group and out-group.[5] In guilds, that distinction appears through guild colors, guild names, war history, old opponents and server reputation.
 
 Conflict can strengthen internal engagement as long as leadership manages its boundaries. Conflict starts damaging the guild when the cost of war becomes higher than the result felt by members.
 
@@ -81,7 +81,7 @@ Conflict can strengthen internal engagement as long as leadership manages its bo
 
 When an opposing guild buys a much stronger character, the main change appears in member perception.
 
-Before the GG character enters, many members still feel that composition, coordination, and attendance can close the gap. After the GG character enters, some members start recalculating their chance of winning.
+Before the GG character enters, many members still feel that composition, coordination and attendance can close the gap. After the GG character enters, some members start recalculating their chance of winning.
 
 Common perception changes:
 
@@ -97,7 +97,7 @@ Buying a GG character sends a signal that the opponent can raise power quickly. 
 
 ## 6. The Opposing Guild Can Break Through Churn Cascade
 
-Guilds usually break apart gradually. From the outside, it looks sudden because the early signs happen inside the guild: attendance drops, Discord war activity declines, officers become passive, and core members start considering a move.
+Guilds usually break apart gradually. From the outside, it looks sudden because the early signs happen inside the guild: attendance drops, Discord war activity declines, officers become passive and core members start considering a move.
 
 Research on churn prediction in MMORPGs shows that social influence and social relationship structure play a role in predicting player churn.[6] When important players become inactive or leave, other players reassess their own commitment.
 
@@ -120,13 +120,13 @@ Large guilds carry reputation. When a small guild loses, the public often sees i
 
 Status loss adds pressure. Members who previously felt proud using the guild name can feel that their reputation is declining too. The situation becomes heavier if the opponent actively uses taunts, flexing, or victory screenshots.
 
-A study on toxic behavior in team-based competitive games shows that negative communication can appear at large scale in online competitive environments.[7] In a guild context, toxic behavior accelerates conflict because messages spread through game chat, Discord, livestream, and community groups.
+A study on toxic behavior in team-based competitive games shows that negative communication can appear at large scale in online competitive environments.[7] In a guild context, toxic behavior accelerates conflict because messages spread through game chat, Discord, livestream and community groups.
 
 A large guild without communication control will lose direction more easily. One screenshot can trigger internal debate. One officer comment can create different interpretations. One member moving to another guild can be read as a larger problem sign.
 
 ## 8. Member Loyalty Needs a Winning Prospect
 
-Loyal members can stay during a losing phase if the guild still has a realistic plan. They stay more easily when there is role distribution, rebuild targets, clear communication, and reasonable evaluation.
+Loyal members can stay during a losing phase if the guild still has a realistic plan. They stay more easily when there is role distribution, rebuild targets, clear communication and reasonable evaluation.
 
 Factors that help a guild survive:
 
@@ -148,7 +148,7 @@ In a competitive game based on gear and stats, acquiring a strong character can 
 
 | Level          | Impact                                                      |
 | -------------- | ----------------------------------------------------------- |
-| Gameplay       | Damage, survivability, and objective pressure increase.     |
+| Gameplay       | Damage, survivability and objective pressure increase.     |
 | Psychological  | The opponent feels the gap widening.                        |
 | Guild politics | Opposing members start questioning their guild’s direction. |
 
@@ -179,14 +179,14 @@ Signs that a guild can still survive:
 
 ## 12. Weakening the Dominance of a Large Guild Within Game Rules
 
-Large guilds are usually strong because of attendance, core members, resource control, reputation, and internal governance. An effective strategy needs to read those five areas as a competitive system, then pressure the part that costs the most to maintain.
+Large guilds are usually strong because of attendance, core members, resource control, reputation and internal governance. An effective strategy needs to read those five areas as a competitive system, then pressure the part that costs the most to maintain.
 
 Operational boundaries:
 
 | Risky practice              | Approach used                                                  |
 | --------------------------- | -------------------------------------------------------------- |
 | Doxxing                     | Limit analysis to game data and public activity.               |
-| Harassment                  | Direct pressure toward objectives, roles, and war performance. |
+| Harassment                  | Direct pressure toward objectives, roles and war performance. |
 | Leaking private chat        | Use recaps from public event results.                          |
 | Fake report                 | Report real violations with evidence.                          |
 | Impersonation               | Use clear identity when communicating between guilds.          |
@@ -199,7 +199,7 @@ Operational targets:
 * Increase coordination cost during war;
 * Make objective control more expensive;
 * Strengthen outside option for members who want to move;
-* Keep your own guild cleaner in governance, roles, and communication.
+* Keep your own guild cleaner in governance, roles and communication.
 
 ### 12.1 Read the Sources of a Large Guild’s Strength
 
@@ -207,12 +207,12 @@ Large guilds have several connected sources of strength.
 
 | Source of strength | Function                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------- |
-| Attendance         | Enough members fill war, MVP contest, and objective events.                             |
-| Core member        | Damage dealers, tanks, supports, shotcallers, and scouts maintain main performance.     |
+| Attendance         | Enough members fill war, MVP contest and objective events.                             |
+| Core member        | Damage dealers, tanks, supports, shotcallers and scouts maintain main performance.     |
 | Social identity    | The guild name gives members social status.                                             |
 | Resource control   | The guild controls castle, MVP, spot farming, or access to strong parties.              |
-| Governance         | Leaders and officers manage loot rule, schedule, conflict handling, and recruitment.    |
-| Switching cost     | Members stay because of relationships, reputation, loot history, and established roles. |
+| Governance         | Leaders and officers manage loot rule, schedule, conflict handling and recruitment.    |
+| Switching cost     | Members stay because of relationships, reputation, loot history and established roles. |
 
 Start the analysis with simple questions:
 
@@ -242,7 +242,7 @@ Likely dependency:
 
 ### 12.2 Reduce Material for the Opponent’s Internal Cohesion
 
-Lewis Coser explains that external conflict can strengthen internal group cohesion. In a guild context, personal provocation often makes it easier for the opposing leader to bind members through a “we fight them” narrative.
+Lewis Coser explains that external conflict can strengthen internal group cohesion. In a guild context, personal provocation often makes it easier for the opposing leader to bind members through a "we fight them" narrative.
 
 More effective practices:
 
@@ -273,7 +273,7 @@ This recap applies reputation pressure without strengthening the opponent’s in
 
 ### 12.3 Increase the Opponent’s Coordination Cost
 
-Large guilds are strong when instructions are easy to understand and every party moves in one direction. Coordination cost rises when the opponent has to split attention, parties, and supply.
+Large guilds are strong when instructions are easy to understand and every party moves in one direction. Coordination cost rises when the opponent has to split attention, parties and supply.
 
 Pressure options:
 
@@ -348,17 +348,17 @@ Pressure targets:
 * Show stable attendance in your own guild;
 * Keep recruitment selective.
 
-A decision to move guilds usually happens after several signals accumulate. Those signals need to be visible through event results, roster movement, and governance quality.
+A decision to move guilds usually happens after several signals accumulate. Those signals need to be visible through event results, roster movement and governance quality.
 
 ### 12.6 Build an Outside Option
 
-Albert Hirschman divides organization member responses into exit, voice, and loyalty. In a guild, disappointed members can stay, protest internally, move guilds, go on hiatus, or sell their characters.
+Albert Hirschman divides organization member responses into exit, voice and loyalty. In a guild, disappointed members can stay, protest internally, move guilds, go on hiatus, or sell their characters.
 
 Outside option appears when another guild looks more stable.
 
 | Area         | Standard that needs to be visible              |
 | ------------ | ---------------------------------------------- |
-| Recruitment  | Role, requirement, and trial period are clear. |
+| Recruitment  | Role, requirement and trial period are clear. |
 | Loot         | Distribution rules are written and followed.   |
 | War schedule | Event schedule is consistent.                  |
 | Review       | Evaluation uses data.                          |
@@ -383,14 +383,14 @@ Good recruitment attracts members who are looking for structure, not only member
 
 ### 12.7 Target Dependency on Key Roles
 
-The study by Ducheneaut, Yee, Nickell, and Moore on World of Warcraft guilds shows the importance of social structure, centrality, and relationships in guild survival. A large guild can look strong in number while still depending on certain roles.
+The study by Ducheneaut, Yee, Nickell and Moore on World of Warcraft guilds shows the importance of social structure, centrality and relationships in guild survival. A large guild can look strong in number while still depending on certain roles.
 
 Dependencies to identify:
 
 | Dependency              | War counter                                                   |
 | ----------------------- | ------------------------------------------------------------- |
 | One dominant shotcaller | Change objective tempo so the opponent’s call falls behind.   |
-| One whale damage        | Prepare crowd control, peel, and specific zoning.             |
+| One whale damage        | Prepare crowd control, peel and specific zoning.             |
 | One opener tank         | Avoid fighting from the angle that tank wants.                |
 | One main support        | Pressure support positioning during objective moments.        |
 | One active scout        | Use small rotations to test response time.                    |
@@ -426,7 +426,7 @@ Alliance types:
 | Information alliance       | Share public data from events.                       |
 | Recruitment non-aggression | Reduce poaching drama.                               |
 
-A healthy alliance has duration, objective, and exit condition. Cooperation without a time limit tends to add conflict surface.
+A healthy alliance has duration, objective and exit condition. Cooperation without a time limit tends to add conflict surface.
 
 ### 12.9 Avoid Blowback
 
@@ -570,28 +570,28 @@ Next month priority:
 
 | Goal                        | Method                                                               |
 | --------------------------- | -------------------------------------------------------------------- |
-| Reduce resource dominance   | Contest MVP, castle, and high-value areas.                           |
-| Increase coordination cost  | Use split objective, fast rotation, and forced trade.                |
+| Reduce resource dominance   | Contest MVP, castle and high-value areas.                           |
+| Increase coordination cost  | Use split objective, fast rotation and forced trade.                |
 | Reduce opponent confidence  | Win small objectives consistently.                                   |
-| Open outside option         | Show clean governance, recruitment, and schedule.                    |
-| Protect your own reputation | Avoid leak, harassment, impersonation, and personal rumors.          |
-| Read progress               | Use attendance, objective control, supply burn, and roster movement. |
+| Open outside option         | Show clean governance, recruitment and schedule.                    |
+| Protect your own reputation | Avoid leak, harassment, impersonation and personal rumors.          |
+| Read progress               | Use attendance, objective control, supply burn and roster movement. |
 
 ## References
 
-[01] Siang Ang, Zaphiris, “Social Roles of Players in MMORPG Guilds: A social network analytic perspective.”
-[02] “Sense of Community, Social Identity and Social Support Among Players of Massively Multiplayer Online Games.”
-[03] Realistic conflict theory and competition over limited resources, referring to the research tradition of Muzafer Sherif.
-[04] Ducheneaut, Yee, Nickell, Moore, “The Life and Death of Online Gaming Communities: A Look at Guilds in World of Warcraft.”
-[05] Social identity theory, Henri Tajfel and John Turner.
-[06] “Churn prediction in MMORPGs: A social influence based approach.”
-[07] Kwak, Blackburn, Han, “Exploring Cyberbullying and Other Toxic Behavior in Team Competition Online Games.”
-[08] Lewis A. Coser, *The Functions of Social Conflict*.
-[09] Morton Deutsch, “A Theory of Co-operation and Competition.”
-[10] Mark Granovetter, “Threshold Models of Collective Behavior.”
-[11] Albert O. Hirschman, *Exit, Voice, and Loyalty*.
-[12] Elinor Ostrom, *Governing the Commons*.
-[13] Ducheneaut, Yee, Nickell, Moore, “The Life and Death of Online Gaming Communities: A Look at Guilds in World of Warcraft.”
+[01] Siang Ang, Zaphiris, "Social Roles of Players in MMORPG Guilds: A social network analytic perspective."  
+[02] "Sense of Community, Social Identity and Social Support Among Players of Massively Multiplayer Online Games."  
+[03] Realistic conflict theory and competition over limited resources, referring to the research tradition of Muzafer Sherif.  
+[04] Ducheneaut, Yee, Nickell, Moore, "The Life and Death of Online Gaming Communities: A Look at Guilds in World of Warcraft."  
+[05] Social identity theory, Henri Tajfel and John Turner.  
+[06] "Churn prediction in MMORPGs: A social influence based approach."  
+[07] Kwak, Blackburn, Han, "Exploring Cyberbullying and Other Toxic Behavior in Team Competition Online Games."  
+[08] Lewis A. Coser, *The Functions of Social Conflict*.  
+[09] Morton Deutsch, "A Theory of Co-operation and Competition."  
+[10] Mark Granovetter, "Threshold Models of Collective Behavior."  
+[11] Albert O. Hirschman, *Exit, Voice and Loyalty*.  
+[12] Elinor Ostrom, *Governing the Commons*.  
+[13] Ducheneaut, Yee, Nickell, Moore, "The Life and Death of Online Gaming Communities: A Look at Guilds in World of Warcraft."  
 
 ---
 
