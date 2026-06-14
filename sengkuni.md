@@ -36,8 +36,8 @@ Sintesis dari keenam paper menghasilkan **6 domain kerentanan** yang saling terk
 
 ```
                   ┌─────────────────────────┐
-                  │   KEPEMIMPINAN (Root)    │
-                  │  Legitimasi kontekstual  │
+                  │   KEPEMIMPINAN (Root)   │
+                  │  Legitimasi kontekstual │
                   └───────────┬─────────────┘
                               │
       ┌───────────────────────┼───────────────────────┐
