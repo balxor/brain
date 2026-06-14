@@ -1,5 +1,5 @@
 # Kerentanan Struktural Guild Besar dalam MMORPG
-## Perspektif Teori Konflik - Threat Modeling untuk Tujuan Defensif
+## Perspektif Teori Konflik - Threat Modeling
 
 ---
 
